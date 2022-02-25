@@ -1,6 +1,9 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=40&duration=7000&lines=Everest)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&color=%2336BCF7&size=30&duration=5000&lines=Everest&center=true">
 <h4>I'm a backend dev utilizing Python, C# and JavaScript. I mainly work with CLI's.</h4>
------------
+</div>
+
+-------
 
 <br>
 <h3>Currently working on</h3>
