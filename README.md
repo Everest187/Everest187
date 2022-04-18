@@ -6,7 +6,7 @@
 
 -------
 
-<br>
+
 - Bucket List
   - Pipelining
   - Dll Injection
@@ -15,7 +15,7 @@
   - Algs
   - DataStructures
   - Frontend Development
-</br>
+
 
 <h3>Completed Projects -</h3>
 <p align="left">
