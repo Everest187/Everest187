@@ -15,12 +15,11 @@
   - Algs
   - DataStructures
   - Frontend Development
-
 </br>
-
-![Everest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everest187&count_private=true&theme=onedark)
 
 <h3>Completed Projects -</h3>
 <p align="left">
 <a href='https://github.com/Everest187/Artemis-Sniper'><img src='https://github-readme-stats.vercel.app/api/pin/?username=Everest187&repo=Artemis-Sniper&theme=dark&show_icons=true'></a>
 </p>
+
+![Everest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everest187&count_private=true&theme=onedark)
