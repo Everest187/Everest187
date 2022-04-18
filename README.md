@@ -7,23 +7,15 @@
 -------
 
 <br>
-<h3>Currently working on</h3>
-
-- Projects
-    - <details><summary>Artemis Sniper</summary>Artemis is a Minecraft name sniper that utilizes Sockets & Threading to send HTTP requests to the Minecraft name change endpoint.</details>
-    - <details><summary>Whisper</summary>A Discord Multi-Tool that is able to grab information on Discord Users.</details>
 - Bucket List
   - Pipelining
+  - Dll Injection
   - C#
   - SQL
   - Algs
   - DataStructures
   - Frontend Development
- 
--Upcoming Projects
- - Blind Mice
- - NoComp
- - I.LUV.ALL
+
 </br>
 
 ![Everest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everest187&count_private=true&theme=onedark)
