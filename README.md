@@ -11,6 +11,7 @@
   - Pipelining
   - Dll Injection
   - C#
+  - V
   - SQL
   - Algs
   - DataStructures
